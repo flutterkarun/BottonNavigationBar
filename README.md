@@ -1,8 +1,6 @@
 # myapp
 
-A new Flutter project.
+A new Flutter project BottonNavigationBar.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="https://raw.githubusercontent.com/flutterkarun/BottonNavigationBar/master/flutter_01.png"
+ data-canonical-src="#" width="300" height="530" />
